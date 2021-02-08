@@ -1,1 +1,1 @@
-from .process import *
+from .process import multiply, random_matrix
